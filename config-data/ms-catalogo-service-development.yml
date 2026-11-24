@@ -5,7 +5,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/ms_catalogo
     username: postgres
-    password: Yack200518
+    password: Yack200518.
   jpa:
     hibernate:
       ddl-auto: update
